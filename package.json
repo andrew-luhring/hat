@@ -1,0 +1,14 @@
+{
+  "name": "magic-hat",
+  "version": "1.0.0",
+  "description": "A hat that responds to a viewers blood alcohol content. on a pedastal",
+  "main": "hat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.1.2"
+  }
+}
